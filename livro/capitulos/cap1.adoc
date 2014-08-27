@@ -22,6 +22,8 @@ salve com outro nome (não utilize espaço no nome do arquivo). Em seguida,
 atualize o arquivo *livro.asc* para incluir o novo arquivo criado. 
 Consulte o manual.
 
+Novo texto incluído aqui.
+
 === Minha primeira seção
 
 Texto da sua seção.
