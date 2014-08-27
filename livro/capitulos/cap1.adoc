@@ -26,6 +26,11 @@ Consulte o manual.
 
 Novo texto incluído aqui.
 
+image::{img}/robot2.jpg[]
+
+
+
+
 === Minha primeira seção
 
 Texto da sua seção.
