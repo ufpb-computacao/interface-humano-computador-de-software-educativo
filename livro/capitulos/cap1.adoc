@@ -17,6 +17,8 @@ ____
 
 Neste lugar você deve apresentar o conteúdo em forma de diálogo.
 
+Primeira experiência na edição.
+
 NOTE: Para começar a escrever um novo capítulo, copie este arquivo e 
 salve com outro nome (não utilize espaço no nome do arquivo). Em seguida,
 atualize o arquivo *livro.asc* para incluir o novo arquivo criado. 
